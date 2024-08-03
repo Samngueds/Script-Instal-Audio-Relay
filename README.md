@@ -1,9 +1,3 @@
-Adicionar um botão para mudar o idioma diretamente no README.md não é possível, pois o Markdown, que é o formato usado para README.md, não suporta a inclusão de elementos interativos como botões. No entanto, você pode estruturar o README.md de forma que ofereça links para as versões em diferentes idiomas.
-
-Aqui está um exemplo de como você pode organizar o README.md com links para as versões em português e inglês:
-
----
-
 # AudioRelay Installation Script
 
 Este repositório contém um script de instalação para o AudioRelay em sistemas baseados em Debian. O script inclui funcionalidades adicionais, como a opção de desinstalação.
