@@ -23,7 +23,7 @@ Clone este repositório ou baixe o script diretamente:
 
 ```bash
 git clone https://github.com/Samngueds/Script-Instal-Audio-Relay.git
-cd audiorelay-install-script
+cd Script-Instal-Audio-Relay
 ```
 
 #### Tornar o Script Executável
@@ -92,7 +92,7 @@ Clone this repository or download the script directly:
 
 ```bash
 git clone https://github.com/Samngueds/Script-Instal-Audio-Relay.git
-cd audiorelay-install-script
+cd Script-Instal-Audio-Relay
 ```
 
 #### Make the Script Executable
