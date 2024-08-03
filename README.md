@@ -63,7 +63,7 @@ O script executa os seguintes passos:
 1. Atualiza as listas de pacotes.
 2. Instala o gdebi-core se ainda não estiver instalado.
 3. Baixa a dependência libflac8 de um mirror do Debian.
-4. Baixa o pacote AudioRelay do link fornecido (substitua `<link_para_o_pacote>` pelo link real).
+4. Baixa o pacote AudioRelay do link fornecido 
 5. Instala os pacotes libflac8 e audiorelay usando o gdebi para lidar com dependências adicionais.
 6. Limpa os arquivos temporários.
 
@@ -132,7 +132,7 @@ The script performs the following steps:
 1. Updates the package lists.
 2. Installs gdebi-core if it is not already installed.
 3. Downloads the libflac8 dependency from a Debian mirror.
-4. Downloads the AudioRelay package from the provided link (replace `<link_to_package>` with the actual link).
+4. Downloads the AudioRelay package from the provided link 
 5. Installs the libflac8 and audiorelay packages using gdebi to handle any additional dependencies.
 6. Cleans up any temporary files.
 
