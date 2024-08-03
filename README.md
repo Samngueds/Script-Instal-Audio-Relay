@@ -22,7 +22,7 @@ Você pode visualizar este README em diferentes idiomas:
 Clone este repositório ou baixe o script diretamente:
 
 ```bash
-git clone https://github.com/yourusername/audiorelay-install-script.git
+git clone https://github.com/Samngueds/Script-Instal-Audio-Relay.git
 cd audiorelay-install-script
 ```
 
@@ -91,7 +91,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 Clone this repository or download the script directly:
 
 ```bash
-git clone https://github.com/yourusername/audiorelay-install-script.git
+git clone https://github.com/Samngueds/Script-Instal-Audio-Relay.git
 cd audiorelay-install-script
 ```
 
